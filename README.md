@@ -26,7 +26,7 @@ Deschideți pagina și introduceți un termen în câmpul de căutare. Selectaț
 
 Textul a fost redactat și revizuit **cu asistență AI substanțială**. Au fost efectuate audituri critice independente asupra unor ediții și verificări punctuale cu surse tehnice, dar **nu fiecare afirmație din toate cele 361 de intrări a fost validată independent**. Unele intrări sunt expresii descriptive, altele nume de produse sau instrumente. Lexiconul nu reprezintă un standard terminologic oficial și nu substituie documentația tehnică a produselor.
 
-Citiți [metodologia, limitele și verificările](docs/METODOLOGIE_SI_LIMITE.md) și [istoricul edițiilor](CHANGELOG.md).
+Citiți [metodologia, limitele și verificările](docs/METODOLOGIE_SI_LIMITE.md), [istoricul edițiilor](CHANGELOG.md) și [informarea privind confidențialitatea](confidentialitate.html).
 
 ## Corecturi și contribuții
 
