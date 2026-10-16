@@ -2,7 +2,14 @@
 
 Acest fișier descrie principalele etape editoriale. Nu reprezintă un jurnal complet al tuturor intervențiilor sau o certificare exhaustivă a conținutului.
 
-## v0.9.6a — candidat pentru v1.0
+## v1.0 — prima ediție stabilă
+
+- Ediție oficială EN–RO cu **361 de intrări**.
+- Site public pe GitHub Pages și pagină de confidențialitate.
+- Politică documentată: **CC BY-NC 4.0 pentru conținut**, **toate drepturile rezervate pentru cod**.
+- Nicio definiție, explicație, regulă de căutare sau regulă CSS modificată față de v0.9.6a; în pagina lexiconului s-au actualizat doar marcajele de versiune și subsolul.
+
+## v0.9.6a — candidat editorial anterior
 
 - **361 de intrări**, fără adăugări sau eliminări.
 - Referință oficială Microsoft GraphRAG adăugată la intrarea *Knowledge graph*, pentru susținerea utilizării grafului în recuperarea informațiilor.
@@ -37,4 +44,4 @@ Acest fișier descrie principalele etape editoriale. Nu reprezintă un jurnal co
 
 ## Statutul ediției
 
-Acest repository publică în prezent **v0.9.6a**, **candidat pentru v1.0**. Eticheta `v1.0` nu trebuie considerată acordată până când decizia editorială de lansare nu este consemnată explicit.
+Acest repository publică **v1.0**, prima ediție stabilă. Marcajul ediției din conținut nu înlocuiește un tag Git sau un GitHub Release, care se creează separat.

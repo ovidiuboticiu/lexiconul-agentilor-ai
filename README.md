@@ -2,7 +2,7 @@
 
 **Lexicon educațional bilingv EN–RO** despre inteligența artificială, modele lingvistice mari (LLM), sisteme agentice, RAG, evaluare, securitate și instrumente conexe.
 
-**Versiunea disponibilă:** v0.9.6a — **361 de intrări**; candidat pentru ediția stabilă v1.0.
+**Versiunea stabilă:** v1.0 — **361 de intrări**.
 
 ## Acces
 
@@ -34,7 +34,7 @@ Erorile factuale, sursele nepotrivite și problemele funcționale pot fi semnala
 
 ## Licență
 
-**Nu a fost stabilită încă o licență de reutilizare.** Repository-ul este public pentru consultare; acest fapt nu înseamnă că textul și codul sunt în domeniul public sau că există o permisiune generală de redistribuire și modificare. Licențierea se va decide separat.
+**Conținutul editorial** este oferit sub [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) pentru reutilizare necomercială cu atribuire, în măsura drepturilor deținute de autor. **Codul HTML/CSS/JavaScript** nu beneficiază de o licență de reutilizare: toate drepturile rezervate. Pentru delimitarea dintre conținut și cod, citiți [LICENSE.md](LICENSE.md).
 
 ---
 

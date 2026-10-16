@@ -2,7 +2,7 @@
 
 ## Scop și domeniu
 
-Lexiconul este o resursă **educațională bilingvă EN–RO** pentru noțiuni despre AI, LLM, agenți, automatizare, RAG, securitate, evaluare și instrumente conexe. Ediția curentă **v0.9.6a** conține **361 de intrări**. Unele concepte se suprapun intenționat; o intrare nu echivalează obligatoriu cu un concept complet independent.
+Lexiconul este o resursă **educațională bilingvă EN–RO** pentru noțiuni despre AI, LLM, agenți, automatizare, RAG, securitate, evaluare și instrumente conexe. Ediția stabilă **v1.0** conține **361 de intrări**. Unele concepte se suprapun intenționat; o intrare nu echivalează obligatoriu cu un concept complet independent.
 
 Fiecare intrare include denumirea engleză, echivalentul sau categoria în română, o definiție și o explicație „De ce contează?”. Sunt incluse, unde este cazul, legături interne și surse.
 
@@ -44,11 +44,13 @@ Materialul conține și expresii operaționale sau descriptive pentru care nu ex
 
 ## Integritate și proveniență
 
-Fișierul HTML folosit pentru pagina publică este copia nealterată a versiunii **v0.9.6a**, cu identificatorul SHA-256:
+Ediția v1.0 păstrează toate cele 361 de definiții și explicații din v0.9.6a și codul de căutare/afișare. Au fost modificate numai etichetele versiunii și informațiile despre licență din subsol. Istoricul Git păstrează modificările publice verificabile.
+
+Pentru referință, versiunea premergătoare v0.9.6a avea SHA-256:
 
 `e03faf59bba6b74ac082640f8ee8f57d23b3925198f190b06a4f0ad60fba496b`
 
-Pagina principală din repository este acest fișier redenumit **index.html**. Renumirea nu modifică conținutul.
+Acest hash se referă la **versiunea anterioară**, nu la fișierul v1.0.
 
 ## Îmbunătățiri ulterioare
 
@@ -56,4 +58,4 @@ Observațiile documentate pot fi transmise prin [Issues](https://github.com/ovid
 
 ## Licențiere
 
-Nu este atribuită încă o licență de reutilizare. Documentul public este disponibil pentru consultare, fără a implica acordarea unor drepturi suplimentare asupra materialului.
+Conținutul editorial este oferit sub **CC BY-NC 4.0** pentru reutilizare necomercială cu atribuire, în măsura drepturilor autorului. Codul aplicației nu este licențiat pentru reutilizare și rămâne cu toate drepturile rezervate, sub rezerva legii și a condițiilor GitHub. Condițiile și limitările sunt descrise în [LICENSE.md](../LICENSE.md).
