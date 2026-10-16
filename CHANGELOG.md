@@ -20,7 +20,7 @@ Acest fișier descrie principalele etape editoriale. Nu reprezintă un jurnal co
 ## v0.9.5 — extindere la 361 de intrări
 
 - Adăugate **14 intrări** după compararea și reconcilierea evaluărilor Claude și Codex.
-- Concepe acoperite: *Alignment*, *Data contamination*, *Data poisoning*, *Exploration vs exploitation*, *Instruction hierarchy*, *Knowledge graph*, *Personally identifiable information (PII)*, *Pretraining*, *Reinforcement learning*, *Reward model*, *Semantic search*, *Supervised learning*, *Throughput* și *Training / validation / test split*.
+- Concepte acoperite: *Alignment*, *Data contamination*, *Data poisoning*, *Exploration vs exploitation*, *Instruction hierarchy*, *Knowledge graph*, *Personally identifiable information (PII)*, *Pretraining*, *Reinforcement learning*, *Reward model*, *Semantic search*, *Supervised learning*, *Throughput* și *Training / validation / test split*.
 - Cele 347 de intrări preexistente au fost păstrate nemodificate.
 
 ## v0.9.4a — consolidare editorială
