@@ -4,6 +4,19 @@
 
 © 2026 Ovidiu Boticiu. Drepturile de autor se aplică în măsura recunoscută de legislația relevantă.
 
+## Cum poți folosi lexiconul
+
+Lexiconul este gratuit și poate fi consultat de oricine, online sau fără internet.
+
+- **Îl poți distribui:** poți trimite linkul oricui, fără să ceri permisiunea.
+- **Poți folosi explicațiile:** le poți copia sau adapta în materiale necomerciale, cu menționarea autorului, a sursei, a licenței CC BY-NC 4.0 și a eventualelor modificări.
+- **Pentru utilizare comercială:** este necesar acordul autorului, atunci când legea îl cere.
+- **Codul aplicației:** poate fi consultat public, dar nu este oferit sub o licență de reutilizare.
+
+Condițiile complete, limitele și excepțiile sunt prezentate mai jos.
+
+---
+
 Acest repository conține **două categorii diferite de material**, cu regimuri de reutilizare diferite. **Licența pentru text nu se extinde automat la codul aplicației.**
 
 ## 1. Conținutul editorial: CC BY-NC 4.0
