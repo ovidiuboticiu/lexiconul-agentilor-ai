@@ -1,5 +1,7 @@
 # Lexiconul agenților AI
 
+> **Ediția a doua:** https://ovidiuboticiu.github.io/lexicon-ai/ · Această pagină rămâne ca arhivă a ediției v1.0.
+
 **Lexicon educațional bilingv EN–RO** despre inteligența artificială, modele lingvistice mari (LLM), sisteme agentice, RAG, evaluare, securitate și instrumente conexe.
 
 **Versiunea stabilă:** v1.0 — **361 de intrări**.
